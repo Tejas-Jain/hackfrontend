@@ -1,0 +1,26 @@
+.left{
+  width: 60%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.right{
+
+  width: 40%;
+}
+
+#imh{
+  object-fit: cover;
+  height: 450px;
+  width: 320px;
+  border-radius: 20px;
+}
+
+.txt{
+  margin:20px;
+  font-size: 80px !important;
+
+
+}
